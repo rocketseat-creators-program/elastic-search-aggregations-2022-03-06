@@ -1,0 +1,7 @@
+Rodar os seguintes scripts:
+python3 MoviesToJson.py > moremovies.json
+curl -XDELETE 127.0.0.1:9200/movies
+
+curl -XPUT '127.0.0.1:9200/_bulk' -H 'Content-Type: application/json' --data-binary @moremovies.json
+
+python3 IndexRatings.py

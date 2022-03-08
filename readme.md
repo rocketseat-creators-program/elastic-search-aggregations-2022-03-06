@@ -8,8 +8,9 @@ Nessa aula o objetivo será mostrada como é o funcionamento do ElasticSearch e 
 
 É o framework dentro do Elasticsearch que possibilita que você tenha uma visão agregada dos seus dados resultados de uma busca, possibilitando assim que você tenha uma visão analítica sobre os seus documentos.
 
-**Cenário**: Vamos imaginar que precise de uma busca de texto, que nela me retorne as categorias dessa palavra ou frase. Por exemplo: Notebook
-Eu quero que retorne as todas as marcas, tamanho de tela e tecnologia
+**Tag**: 
+
+elasticsearch, pipeline, metricas, agrupar, matrizes, estatísticas
 
 **Requisitos**:
 Precisa instalar o Docker

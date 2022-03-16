@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# O que é Elasticsearch
+# Elastic Search: agregando dados para análise
 
 Nessa aula o objetivo será mostrada como é o funcionamento do ElasticSearch e todos os outros produtos do ElasticStack. O ElasticSearch é muito mais que um mecanismo de busca inteligente.  É o mais importante quando usar e como devemos escala o ElasticSearch no seu projeto. 
 

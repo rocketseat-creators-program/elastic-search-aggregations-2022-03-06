@@ -1,6 +1,6 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Elastic Search: agregando dados para análise
+# ElasticSearch: agregando dados para análise
 
 Nessa aula vamos agregar dados é uma operação fundamental em qualquer processo de análise de dados.  
 
